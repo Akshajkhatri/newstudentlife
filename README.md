@@ -1,1 +1,1 @@
-# newstudentlife
+# studentlife
